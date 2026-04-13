@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Full Stack | Front-end | Angular
 
-[![Deploy](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)](https://portfolio-robson.vercel.app)
+[![Deploy](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)](https://robsonsilva243.github.io/Portfolio-Robson)
 [![GitHub](https://img.shields.io/badge/GitHub-robsonsilva243-181717?style=for-the-badge&logo=github)](https://github.com/robsonsilva243)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-robsonsilva243-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/robsonsilva243)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-(48)%2099104--0243-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5548991040243)
@@ -17,7 +17,7 @@
 
 Portfólio pessoal desenvolvido do zero com **HTML5, CSS3 e JavaScript puro** — sem frameworks, sem dependências. Design dark-mode moderno com animações fluidas, cursor customizado e partículas interativas.
 
-> **Live demo:** [portfolio-robson.vercel.app](https://portfolio-robson.vercel.app)
+> **Live demo:** [robsonsilva243.github.io/Portfolio-Robson](https://robsonsilva243.github.io/Portfolio-Robson)
 
 ---
 
